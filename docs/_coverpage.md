@@ -6,4 +6,4 @@
 
 
 [GitHub](https://github.com/ringt/ringt.github.io)
-[Get Started](README)
+[Get Started](_navbar)
