@@ -1,7 +1,4 @@
-* [操作指南](guide)
-
 * 前端技术
-    * [javascript](01/javascript/) 
-    * [echarts](01/echarts/)
+    * [第一章 java语言介绍，jdk，编码规范](chapter-2章) 
+    * 
      
-* 后端技术
